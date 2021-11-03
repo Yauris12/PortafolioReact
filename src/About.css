@@ -1,0 +1,28 @@
+h1 {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 5rem;
+}
+
+.h2 {
+  margin: 30px auto;
+  width: 50%;
+}
+
+.main-about p {
+  width: 50%;
+  text-align: justify;
+  margin: 20px auto;
+}
+.flotante-volver {
+  position: fixed;
+
+  line-height: 55px;
+  top: 30px;
+  right: 30px;
+  color: #fff;
+  font-size: 24px;
+  z-index: 100;
+  list-style: none;
+  cursor: pointer;
+}
